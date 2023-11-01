@@ -1,0 +1,7 @@
+com.example.csecalculator.test.app-androidTest-0 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/build/generated/res/resValues/androidTest/debug
+com.example.csecalculator.test.app-androidTest-1 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/build/generated/res/rs/androidTest/debug
+com.example.csecalculator.test.app-mergeDebugAndroidTestResources-2 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.csecalculator.test.app-mergeDebugAndroidTestResources-3 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.csecalculator.test.app-merged_res-4 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/build/intermediates/merged_res/debugAndroidTest
+com.example.csecalculator.test.app-androidTest-5 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/src/androidTest/res
+com.example.csecalculator.test.app-androidTestDebug-6 /Users/ademgalitekin/Desktop/java assignment /Android-Simple-Calculator/app/src/androidTestDebug/res
